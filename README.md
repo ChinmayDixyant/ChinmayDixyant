@@ -1,9 +1,9 @@
  ### 👋 Hi there, I’m Chinmay
 
 - 📚 I'm a Undergrad student currently in my Final year of college
-- 👀 I’m interested in Cybersecurity, Game Development and all things Tech.
-- 🌱 I’m currently learning Machine Learning and its applications 
-- 💞️ I’m looking to collaborate with enthusiast programmers on my projects
+- 👀 Interested in Cybersecurity, Game Development and all things Tech.
+- 🌱 Currently learning Web Development
+- 💞️ Looking to collaborate with enthusiast programmers on my projects
 - 🎈 I like to read📔 and binge watch📺 in my free time🤗
 
 ### Connect with me:
