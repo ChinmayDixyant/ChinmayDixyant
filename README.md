@@ -1,6 +1,6 @@
  ### 👋 Hi there, I’m Chinmay
 
-- 📚 I'm a Undergrad student currently in my Final year of college
+- 📚 Undergrad college student currently in my Final year at SiliconTech
 - 👀 Interested in Cybersecurity, Game Development and all things Tech.
 - 🌱 Currently learning Web Development
 - 💞️ Looking to collaborate with enthusiast programmers on my projects
